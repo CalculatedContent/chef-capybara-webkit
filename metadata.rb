@@ -1,4 +1,4 @@
-name             "chef-capybara-webkit"
+name             "capybara-webkit"
 maintainer       "Richard Grundy"
 maintainer_email "rich@27smiles.com"
 license          "All rights reserved"

@@ -76,7 +76,7 @@ Vagrant.configure("2") do |config|
     }
 
     chef.run_list = [
-      "recipe[chef-capybara-webkit::default]"
+      "recipe[capybara-webkit::default]"
     ]
   end
 end
